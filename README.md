@@ -287,7 +287,7 @@ O mesmo conceito é aplicado na navegação para capítulos anteriores.
 ## 📂 Estrutura do Projeto
 
 ```text
-projeto/
+JS_Audiobook/
 │
 ├── index.html
 ├── style.css
